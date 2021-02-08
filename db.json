@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "email": "steve@apple.com",
+            "name": "Steve Jobs",
+            "password": "mockword"
+        },
+        {
+            "id": 1,
+            "email": "tim@apple.com",
+            "name": "Tim Cook",
+            "password": "mockword"
+        }
+    ]
+}
